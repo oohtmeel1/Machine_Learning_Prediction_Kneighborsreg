@@ -46,7 +46,7 @@ Pretty straightforward actually.
 
 The k_neighbors performed very well. With a prediction accuracy of 100%.
 
-The `MAE` was 0.9834673843854801\
-The `MSE` was 1.5266552927792496\
-The `Explained variance` was 0.9999999450342941\
-The $ R^2 $ was 0.9999999164972077
+The `MAE` was 186.8901960784314\
+The `MSE` was 111144.4768627452\
+The `Explained variance` was 0.9956994403253784\
+The $ R^2 $ was 0.9939207794879534
